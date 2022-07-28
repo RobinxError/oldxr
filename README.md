@@ -1,8 +1,8 @@
-<h1> Hi Freinds I am From Banglaesh <h1>
+<h1> Hi Freinds I am From Banglaesh </h1>
 
-OLD ACCOUNT COMMAND (FREE)
+<b> OLD ACCOUNT COMMAND (FREE)</b>
 
-pkg install git
+<code>  pkg install git
 
 pkg install python
 
@@ -12,8 +12,8 @@ git clone https://github.com/RobinxError/oldxr
 
 cd oldxr
 
-python Robinx.py
+python Robinx.py</code>
 
-<b> Enjoy All My Free Tools <b>
+<b> Enjoy All My Free Tools </b>
 
-<h1> Thanks <h1>
+<h1> Thanks </h1>
