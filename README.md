@@ -2,17 +2,17 @@
 
 <b> OLD ACCOUNT COMMAND (FREE)</b>
 
-<code>  pkg install git
+<code>  pkg install git </code>
 
 pkg install python
 
 pip install bs4
 
-git clone https://github.com/RobinxError/oldxr
+<code>git clone https://github.com/RobinxError/oldxr</code>
 
 cd oldxr
 
-python Robinx.py</code>
+<code>python Robinx.py</code>
 
 <b> Enjoy All My Free Tools </b>
 
