@@ -10,9 +10,9 @@ pip install bs4
 
 git clone https://github.com/RobinxError/oldxr</code>
 
-cd oldxr </code>
+cd oldxr 
 
-<code>python Robinx.py</code>
+python Robinx.py</code>
 
 <b> Enjoy All My Free Tools </b>
 
